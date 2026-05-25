@@ -38,3 +38,6 @@ Input → Workflow Engine → Gemini → Output → Supabase → History
 ```bash
 npm install
 npm run dev
+
+## Landing Page
+<img width="1270" height="657" alt="Screenshot 2026-05-25 at 4 33 20 PM" src="https://github.com/user-attachments/assets/6432c51b-7ac1-4e3c-88c1-9ec280783509" />
